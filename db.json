@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Tafsiri Hilol",
+      "author": "Shayx Muhammad Sodiq Muhammad Yusuf",
+      "description": "Qur'on oyatlarining o'zbek tilidagi tafsiri, diniy ma'lumotlarga boy kitob.",
+      "image": "https://olcha.uz/image/600x600/products/A6m8fl6HVNpUhqTRB7TgiLMxYwzJynoiM5GSXUsxwNCvIVxehiPzXrupImbR.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Ijtimoiy Odoblar",
+      "author": "Shayx Muhammad Sodiq Muhammad Yusuf",
+      "description": "Islomiy hayotdagi odob va axloqiy qoidalarga oid risola.",
+      "image": "https://hilolnashr.uz/image/cache/catalog/Ijtimoiy_odoblar400x600-400x600.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Ulamolar Nazdida Vaqtning Qadri",
+      "author": "Abdulfattok Abu Gudda",
+      "description": "Vaqtning qadri haqida ulamolar hikmatlari va tavsiyalari jamlangan asar.",
+      "image": "https://images.uzum.uz/cjcsb23k9fq5pecvbong/original.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Oltin Silsila",
+      "author": "Shayx Muhammad Sodiq Muhammad Yusuf",
+      "description": "Mashhur tasavvuf ulamolarining hayoti va ularning silsilasi haqida hikoya.",
+      "image": "https://olcha.uz/image/700x700/products/2022-02-15/oltin-silsila-saiul-bukhori-tli-tplami-8-zhuz-36862-0.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "Ikki Eshik Orasi",
+      "author": "Abdulla Qodiriy",
+      "description": "XIX asr voqealari asosida yozilgan tarixiy-badiiy roman.",
+      "image": "https://upload.wikimedia.org/wikipedia/uz/6/6d/Ikki_eshik_orasi.jpg"
+    },
+    {
+      "id": "6",
+      "title": "O‘tkan Kunlar",
+      "author": "Abdulla Qodiriy",
+      "description": "Otabek va Kumush sevgisi orqali eski zamon odatlari tanqid qilingan roman.",
+      "image": "https://hilolnashr.uz/image/cache/catalog/badiiy_adabiyot/otkan-kunlar-web-web-lotin-550x550h.jpg"
+    },
+    {
+      "id": "7",
+      "title": "O‘tkan Kunlar",
+      "author": "Abdulla Qodiriy",
+      "description": "Otabek va Kumush sevgisi orqali eski zamon odatlari tanqid qilingan roman.",
+      "image": "https://assets.asaxiy.uz/product/items/desktop/1679091c5a880faf6fb5e6087eb1b2dc202404151227112258921vAxeNBb0.png.webp"
+    },
+    {
+      "id": "8",
+      "title": "O‘tkan Kunlar",
+      "author": "Abdulla Qodiriy",
+      "description": "Otabek va Kumush sevgisi orqali eski zamon odatlari tanqid qilingan roman.",
+      "image": "https://olcha.uz/image/700x700/products/2022-02-15/oltin-silsila-saiul-bukhori-tli-tplami-8-zhuz-36862-0.jpeg"
+    },
+    {
+      "id": "649f",
+      "title": "asfd",
+      "author": "asdf",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Book3.svg/1200px-Book3.svg.png",
+      "description": "sdf"
+    }
+  ]
+}
